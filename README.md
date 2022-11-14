@@ -12,3 +12,7 @@ This is a team profile generator for managers to create a team basic info page. 
 - For instructions watch 'instruction video' which is in 'assets/videos' folder.
 
 ## Screenshot
+
+
+## Notes to self *ignore this*
+For my work I had lots of assistance and used examples. Need to go back over it and try again with no help. Still need way more practice. Try recreating the code without examples, not satisfied, need to be more independent. 

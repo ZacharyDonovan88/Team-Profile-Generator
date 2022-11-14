@@ -10,9 +10,11 @@ This is a team profile generator for managers to create a team basic info page. 
 
 ## Notes
 - For instructions watch 'instruction video' which is in 'assets/videos' folder and Download video.
+
 link to folder: https://github.com/ZacharyDonovan88/Team-Profile-Generator/blob/main/assets/videos/Intructions.m4v 
 
 ## Screenshot
+![Capture](https://user-images.githubusercontent.com/109838413/201617118-53e72e8d-98c4-4491-b49c-9c6c5bb49e8d.PNG)
 
 
 ## Notes to self - *ignore this*

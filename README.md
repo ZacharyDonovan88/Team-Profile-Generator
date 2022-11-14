@@ -9,7 +9,8 @@ SO THAT I have quick access to their emails and GitHub profiles
 This is a team profile generator for managers to create a team basic info page. For instructions go to notes.
 
 ## Notes
-- For instructions watch 'instruction video' which is in 'assets/videos' folder.
+- For instructions watch 'instruction video' which is in 'assets/videos' folder and Download video.
+link to folder: https://github.com/ZacharyDonovan88/Team-Profile-Generator/blob/main/assets/videos/Intructions.m4v 
 
 ## Screenshot
 
